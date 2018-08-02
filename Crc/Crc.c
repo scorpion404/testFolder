@@ -1,5 +1,8 @@
 #include "Crc.h"
-
+/**
+*some changes 001
+*
+*/
 
 //**************************************************************
 //	@ bref: calculate CRC16 for Array. 
