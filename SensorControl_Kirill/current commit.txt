@@ -1,0 +1,5 @@
+link: https://bitbucket.org/elesta/analyseik/src/master/
+
+
+cur commit:		c557ab8 
+cur data:		27.07.2018
